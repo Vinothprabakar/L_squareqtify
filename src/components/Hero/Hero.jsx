@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../Hero/Hero.module.css"
 import Hearphones from '../../assets/headphones.png'
-
+//heroSection
 
 const Hero=()=>{
     return(
